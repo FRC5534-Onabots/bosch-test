@@ -9,7 +9,7 @@ package org.usfirst.frc5534.Onabot.commands;
 import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc5534.Onabot.Robot;
 
-import edu.wpi.first.wpilibj.command.Command;
+//import edu.wpi.first.wpilibj.command.Command;
 
 public class stop extends Command {
   public stop() {

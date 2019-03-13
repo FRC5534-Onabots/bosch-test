@@ -12,7 +12,7 @@
 package org.usfirst.frc5534.Onabot.commands;
 import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc5534.Onabot.Robot;
-import org.usfirst.frc5534.Onabot.subsystems.seatmotor;
+//import org.usfirst.frc5534.Onabot.subsystems.seatmotor;
 
 /**
  *
